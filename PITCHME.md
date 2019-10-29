@@ -8,7 +8,7 @@
 ## Docs Debrief
 @snapend
 
----?color=linear-gradient(90deg, #5384AD 65%, white 35%)
+---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/conference.png)
+@img[shadow](assets/img/bulb.jpg)
 @snapend
 
 ---
