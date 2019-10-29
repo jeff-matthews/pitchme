@@ -1,11 +1,13 @@
----?color=linear-gradient(to top left, #00dffc 50%, white 50.2%)
 
-@snap[north-west span-40]
-![IMAGE](assets/img/mleu.png)
+---?color=linear-gradient(90deg, #005f6b 50%, white 50%)
+
+@snap[west span-40 text-center h1-white]
+# MLEU 2019
+# Docs Debrief
 @snapend
 
-@snap[south-east span-40 h2-black]
-## Docs Debrief
+@snap[east span-50 text-center]
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
