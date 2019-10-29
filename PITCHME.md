@@ -1,6 +1,12 @@
-# MLEU 2019 Docs Debrief
+---?color=linear-gradient(180deg, white 75%, black 25%)
 
----
+@snap[north span-100]
+# @fa[laptop-code fa-3x text-gold]
+@snapend
+
+@snap[south span-100 h2-white]
+## MLEU 2019 Docs Debrief
+@snapend
 
 ## Add Some Slide Candy
 
