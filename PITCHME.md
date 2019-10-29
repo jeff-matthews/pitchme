@@ -1,7 +1,7 @@
 ---?color=linear-gradient(180deg, white 50%, #005f6b 50%)
 
 @snap[north span-100]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/mleu.png)
 @snapend
 
 @snap[south span-100 h2-white]
