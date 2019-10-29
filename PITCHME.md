@@ -1,16 +1,12 @@
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 
 @snap[north span-100]
-# @fa[laptop-code fa-3x text-gold]
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100 h2-white]
-## MLEU 2019 Docs Debrief
+## MLEU 2019 Debrief
 @snapend
-
-## Add Some Slide Candy
-
-![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
 @title[Add A Little Imagination]
