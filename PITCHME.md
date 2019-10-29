@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/bulb.jpg)
+@img[shadow](assets/img/bulb.jpeg)
 @snapend
 
 ---
