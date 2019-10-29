@@ -1,4 +1,4 @@
----?color=linear-gradient(180deg, white 66.66%, #1F6ED4 33.33%)
+---?color=linear-gradient(180deg, white 50%, #005f6b 50%)
 
 @snap[north span-100]
 ![IMAGE](assets/img/presentation.png)
