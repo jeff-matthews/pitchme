@@ -1,11 +1,11 @@
----?color=linear-gradient(180deg, white 75%, black 25%)
+---?color=linear-gradient(to top left, #00dffc 50%, white 50.2%)
 
-@snap[north span-100]
-![IMAGE](assets/img/presentation.png)
+@snap[north-west span-40]
+![IMAGE](assets/img/mleu.png)
 @snapend
 
-@snap[south span-100 h2-white]
-## MLEU 2019 Debrief
+@snap[south-east span-40 h2-black]
+## Docs Debrief
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
@@ -19,6 +19,7 @@
 @ul[list-spaced-bullets text-white text-09]
 - Migration
 - User satisfaction
+- Community
 - Performance
 @ulend
 @snapend
@@ -29,19 +30,18 @@
 
 ---
 
-## Migration
-
+@ul[](false)
 Migration was a prevailing theme among partners. On average, they are requesting:
 
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
 - A map of common M1 libraries to M2 features.
 - Guidance on integrating with third-party services (e.g., payments, marketing, CRM, ERP, OM, BI).
+@ulend
 
 ---
 
-## User satisfaction
-
+@ul[](false)
 Everyone had nice things to say about docs. Here are a couple of quotes:
 
 > The docs are great!
@@ -49,20 +49,31 @@ Everyone had nice things to say about docs. Here are a couple of quotes:
 
 > Our developers love the docs and use them constantly.
 > *Ranjith Vijayan, CIO Terrific Minds*
+@ulend
 
 ---
 
-## Performance
+@ul[](false)
+Community
 
+- Devdocs maintainers call
+- Security-only patches significantly increases speed of updates
+- Special achievment for markdown linting = BS
+@ulend
+
+---
+
+@ul[](false)
 Performance best practices for extension developers:
 
-  1. Measure
-  1. Profile code
-  1. Analyze data
-  1. Refactor code
-  1. Repeat
+- Measure
+- Profile code
+- Analyze data
+- Refactor code
+- Repeat
 
 Work with Mykhail Slabko to add this content to devdocs.
+@ulend
 
 ---?image=assets/img/presenter.jpg
 
