@@ -5,7 +5,7 @@
 @snapend
 
 @snap[south span-100 h2-white]
-## MLEU 2019 Docs Debrief
+## Docs Debrief
 @snapend
 
 ---?color=linear-gradient(90deg, #5384AD 65%, white 35%)
