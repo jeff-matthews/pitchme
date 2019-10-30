@@ -1,13 +1,4 @@
-<!-- ---?color=linear-gradient(180deg, white 75%, #005f6b 50%) -->
-
 ---?image=assets/img/mleu.jpg
-<!-- @snap[north span-100]
-![IMAGE](assets/img/mleu.jpg)
-@snapend -->
-
-@snap[south h2-white]
-### Docs debrief
-@snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
 
