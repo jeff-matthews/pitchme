@@ -31,7 +31,7 @@
 ---
 
 @ul[](false)
-Migration was a prevailing theme among partners. On average, they are requesting:
+Migration
 
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
@@ -42,7 +42,7 @@ Migration was a prevailing theme among partners. On average, they are requesting
 ---
 
 @ul[](false)
-Everyone had nice things to say about docs. Here are a couple of quotes:
+User satisfaction
 
 > The docs are great!
 > *Derrik Heesbeen, CTO Experius*
@@ -64,7 +64,7 @@ Community
 ---
 
 @ul[](false)
-Performance best practices for extension developers:
+Performance
 
 - Measure
 - Profile code
