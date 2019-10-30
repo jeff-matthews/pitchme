@@ -48,11 +48,11 @@
 ### User satisfaction
 @snapend
 
-@snap[west span-50]
+@snap[south-east span-50]
 @quote[The docs are great!](Derrik Heesbeen, CTO Experius)
 @snapend
 
-@snap[south-east span-60]
+@snap[west span-60]
 @quote[Our developers love devdocs and use them constantly.](Ranjith Vijayan, CIO Terrific Minds)
 @snapend
 
