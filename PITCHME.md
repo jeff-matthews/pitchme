@@ -5,27 +5,22 @@
 @snapend
 
 @snap[south span-100 h2-white]
-
 ### Docs Debrief
-
 @snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
-@title[Add A Little Imagination]
+@title[Main takeaways]
 
 @snap[north-west h4-white]
-
 ### Main takeaways
-
 @snapend
+
 @snap[west span-55]
 @ul[list-spaced-bullets text-white text-09]
-
 - Migration
 - User satisfaction
 - Community
 - Performance
-
 @ulend
 @snapend
 
@@ -36,25 +31,20 @@
 ---
 
 @snap[north span-40 h3-black]
-
 ### Migration
-
 @snapend
-@ul
 
+@ul
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
 - A map of common M1 libraries to M2 features.
 - Guidance on integrating with third-party services (e.g., payments, marketing, CRM, ERP, OM, BI).
-
 @ulend
 
 ---
 
 @snap[north span-40 h3-black]
-
 ### User satisfaction
-
 @snapend
 
 @snap[north-east span-20]
@@ -68,32 +58,25 @@
 ---
 
 @snap[north span-40 h3-black]
-
 ### Community
-
 @snapend
-@ul
 
+@ul
 - Devdocs maintainers call
 - Security-only patches = speedy updates
 - Special achievment for markdown linting = BS
-
 @ulend
 
 ---
 
 @snap[north span-40 h3-black]
-
 ### Performance
-
 @snapend
 
 @ul
-
 - Measure
 - Profile code
 - Analyze data
 - Refactor code
 - Repeat
-
 @ulend
