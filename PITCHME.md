@@ -9,9 +9,8 @@
 @snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
-@title[Main takeaways]
 
-@snap[north-west h4-white]
+@snap[north-west h3-white]
 ### Main takeaways
 @snapend
 
@@ -30,7 +29,7 @@
 
 ---
 
-@snap[north span-40 h3-black]
+@snap[north span-40 h3-white]
 ### Migration
 @snapend
 
@@ -43,7 +42,7 @@
 
 ---
 
-@snap[north span-40 h3-black]
+@snap[north span-40 h3-white]
 ### User satisfaction
 @snapend
 
@@ -57,7 +56,7 @@
 
 ---
 
-@snap[north span-40 h3-black]
+@snap[north span-40 h3-white]
 ### Community
 @snapend
 
@@ -69,7 +68,7 @@
 
 ---
 
-@snap[north span-40 h3-black]
+@snap[north span-40 h3-white]
 ### Performance
 @snapend
 
