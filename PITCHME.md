@@ -48,13 +48,8 @@
 ### User satisfaction
 @snapend
 
-@snap[west]
 @quote[The docs are great!](Derrik Heesbeen, CTO Experius)
-@snapend
-
-@snap[west]
 @quote[Our developers love devdocs and use them constantly.](Ranjith Vijayan, CIO Terrific Minds)
-@snapend
 
 ---
 
