@@ -5,22 +5,27 @@
 @snapend
 
 @snap[south span-100 h2-white]
-## Docs Debrief
+
+### Docs Debrief
+
 @snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
 @title[Add A Little Imagination]
 
 @snap[north-west h4-white]
-#### Main takeaways
-@snapend
 
+### Main takeaways
+
+@snapend
 @snap[west span-55]
 @ul[list-spaced-bullets text-white text-09]
+
 - Migration
 - User satisfaction
 - Community
 - Performance
+
 @ulend
 @snapend
 
@@ -30,45 +35,65 @@
 
 ---
 
-@ul[](false)
-Migration
+@snap[north span-40 h3-black]
+
+### Migration
+
+@snapend
+@ul
 
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
 - A map of common M1 libraries to M2 features.
 - Guidance on integrating with third-party services (e.g., payments, marketing, CRM, ERP, OM, BI).
+
 @ulend
 
 ---
 
-@ul[](false)
-User satisfaction
+@snap[north span-40 h3-black]
 
-> The docs are great!
-> *Derrik Heesbeen, CTO Experius*
+### User satisfaction
 
-> Our developers love the docs and use them constantly.
-> *Ranjith Vijayan, CIO Terrific Minds*
-@ulend
+@snapend
+
+@snap[north-east span-20]
+@quote[The docs are great!](Derrik Heesbeen, CTO Experius)
+@snapend
+
+@snap[north-east span-20]
+@quote[Our developers love devdocs and use them constantly.](Ranjith Vijayan, CIO Terrific Minds)
+@snapend
 
 ---
 
-@ul[](false)
-Community
+@snap[north span-40 h3-black]
+
+### Community
+
+@snapend
+@ul
 
 - Devdocs maintainers call
 - Security-only patches = speedy updates
 - Special achievment for markdown linting = BS
+
 @ulend
 
 ---
 
-@ul[](false)
-Performance
+@snap[north span-40 h3-black]
+
+### Performance
+
+@snapend
+
+@ul
 
 - Measure
 - Profile code
 - Analyze data
 - Refactor code
 - Repeat
+
 @ulend
