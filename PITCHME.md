@@ -57,7 +57,7 @@ Everyone had nice things to say about docs. Here are a couple of quotes:
 Community
 
 - Devdocs maintainers call
-- Security-only patches significantly increases speed of updates
+- Security-only patches = speedy updates
 - Special achievment for markdown linting = BS
 @ulend
 
@@ -71,12 +71,4 @@ Performance best practices for extension developers:
 - Analyze data
 - Refactor code
 - Repeat
-
-Work with Mykhail Slabko to add this content to devdocs.
 @ulend
-
----?image=assets/img/presenter.jpg
-
-@snap[north span-100 h2-white]
-## What now?
-@snapend
