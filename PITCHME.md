@@ -1,6 +1,6 @@
----?color=linear-gradient(180deg, white 75%, #005f6b 50%)
+<!-- ---?color=linear-gradient(180deg, white 75%, #005f6b 50%) -->
 
----?image=assets/img/mleu.jpg&position=top
+---?image=assets/img/mleu.jpg
 <!-- @snap[north span-100]
 ![IMAGE](assets/img/mleu.jpg)
 @snapend -->
