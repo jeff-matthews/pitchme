@@ -4,8 +4,8 @@
 ![IMAGE](assets/img/mleu.jpg)
 @snapend
 
-@snap[south span-100 h2-white]
-### Docs Debrief
+@snap[south h2-white]
+### Docs debrief
 @snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
@@ -24,7 +24,7 @@
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/bulb.png)
+@img[](assets/img/bulb.png)
 @snapend
 
 ---
