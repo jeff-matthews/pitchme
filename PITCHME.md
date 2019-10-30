@@ -33,7 +33,7 @@
 ### Migration
 @snapend
 
-@snap[west span-55]
+@snap[west]
 @ul
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
@@ -48,11 +48,11 @@
 ### User satisfaction
 @snapend
 
-@snap[north-west]
+@snap[west]
 @quote[The docs are great!](Derrik Heesbeen, CTO Experius)
 @snapend
 
-@snap[north-west]
+@snap[west]
 @quote[Our developers love devdocs and use them constantly.](Ranjith Vijayan, CIO Terrific Minds)
 @snapend
 
@@ -62,7 +62,7 @@
 ### Community
 @snapend
 
-@snap[west span-55]
+@snap[west]
 @ul
 - Devdocs maintainers call
 - Security-only patches = speedy updates
@@ -76,7 +76,7 @@
 ### Performance
 @snapend
 
-@snap[west span-55]
+@snap[west]
 @ul
 - Measure
 - Profile code
