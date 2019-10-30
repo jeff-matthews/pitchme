@@ -1,12 +1,4 @@
----?color=linear-gradient(100deg, white 50%, #1F6ED4 50.2%)
-
-@snap[west span-40]
 ---?image=assets/img/mleu.jpg
-@snapend
-
-@snap[east span-40 h2-white]
-## Docs debrief
-@snapend
 
 ---?color=linear-gradient(90deg, #005f6b 65%, white 35%)
 
