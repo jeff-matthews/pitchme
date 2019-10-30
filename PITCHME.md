@@ -29,49 +29,54 @@
 
 ---
 
-@snap[north span-40 h3-white]
+@snap[north-west h3-black]
 ### Migration
 @snapend
 
+@snap[west span-55]
 @ul
 - More resources to help manage client expectations. Partners spend a lot of pre-sales time setting expectations.
 - Use cases, general timelines, and typical mappings for attributes.
 - A map of common M1 libraries to M2 features.
 - Guidance on integrating with third-party services (e.g., payments, marketing, CRM, ERP, OM, BI).
 @ulend
+@snapend
 
 ---
 
-@snap[north span-40 h3-white]
+@snap[north-west h3-black]
 ### User satisfaction
 @snapend
 
-@snap[north-east span-20]
+@snap[north-west]
 @quote[The docs are great!](Derrik Heesbeen, CTO Experius)
 @snapend
 
-@snap[north-east span-20]
+@snap[north-west]
 @quote[Our developers love devdocs and use them constantly.](Ranjith Vijayan, CIO Terrific Minds)
 @snapend
 
 ---
 
-@snap[north span-40 h3-white]
+@snap[north-west h3-black]
 ### Community
 @snapend
 
+@snap[west span-55]
 @ul
 - Devdocs maintainers call
 - Security-only patches = speedy updates
 - Special achievment for markdown linting = BS
 @ulend
+@snapend
 
 ---
 
-@snap[north span-40 h3-white]
+@snap[north-west h3-black]
 ### Performance
 @snapend
 
+@snap[west span-55]
 @ul
 - Measure
 - Profile code
@@ -79,3 +84,4 @@
 - Refactor code
 - Repeat
 @ulend
+@snapend
